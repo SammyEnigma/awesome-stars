@@ -2104,6 +2104,8 @@
 
 ## others 
 
+- [pascalorg/editor](https://github.com/pascalorg/editor) - 
+- [alibaba/Logics-Parsing](https://github.com/alibaba/Logics-Parsing) - 
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - 
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
