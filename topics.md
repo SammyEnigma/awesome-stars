@@ -2147,6 +2147,7 @@
 
 ## others 
 
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using Claude's frontend skills
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
@@ -2170,7 +2171,7 @@
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
-- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native -- CLI-Hub: https://clianything.cc/
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [andrewyng/context-hub](https://github.com/andrewyng/context-hub) - 
 - [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
