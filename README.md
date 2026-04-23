@@ -39,7 +39,6 @@
 ## C 
 
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -488,6 +487,7 @@
 
 ## Others 
 
+- [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
 - [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness) - 
@@ -553,7 +553,7 @@
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - Memory for 24/7 proactive agents like OpenClaw.
 - [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
@@ -798,6 +798,8 @@
 
 ## TypeScript 
 
+- [iamzhihuix/skills-manage](https://github.com/iamzhihuix/skills-manage) - Desktop app to manage AI coding agent skills across Claude Code, Cursor, Gemini CLI, Codex, and 20+ platforms from one place.
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [AERT-7Y/kiro-auto](https://github.com/AERT-7Y/kiro-auto) - kiro自动注册机
 - [firecrawl/web-agent](https://github.com/firecrawl/web-agent) - Open-source web data agent optimized for structured web research
@@ -911,6 +913,7 @@
 
 ## Zig 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance.
