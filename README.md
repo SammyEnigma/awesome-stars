@@ -534,7 +534,7 @@
 
 ## Python 
 
-- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 - [phuryn/claude-usage](https://github.com/phuryn/claude-usage) - A local dashboard for tracking your Claude Code token usage, costs, and session history. Pro and Max subscribers get a progress bar. This gives you the full picture.
 - [MrQianjinsi/agentic-metric](https://github.com/MrQianjinsi/agentic-metric) - A local-only monitoring tool for AI coding agents.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
